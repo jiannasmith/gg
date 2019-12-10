@@ -1,0 +1,16 @@
+body {background-color: pink}
+img {
+  float: right;
+  width: 150px;
+  margin: 20px;
+  border-color: gold;
+border-width: 10px;
+  border-style:solid;
+  border-radius: 2px;
+}
+h1{color: plum;font-size: 40px}
+h2{color:plum;font-size: 25px;font-style: oblique}
+h3{color: plum;font-size:25px;font-style: oblique}
+h4{color: plum;font-size: 25px;font-style: oblique}
+text-col
+body {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";border-image:url("index.html")}
